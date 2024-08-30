@@ -21,7 +21,7 @@ repository               : "Chocolateater/Chocolateater.github.io" # 仓库名�
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # 头像
+  avatar           : "https://s21.ax1x.com/2024/08/30/pAE9ewd.png" # 头像
   name             : "iKun"
   pronouns         : "he" # example: "she/her"  
   bio              : "个人介绍"
